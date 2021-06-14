@@ -1,7 +1,5 @@
-# Web
+# Restaurant-Website
 
-Hello!
+It is a responsive website for a restaurant from where viewers can get all the information regarding the restaurant, new offers and chefs. Alongside, users will be able to log in and book the table as per their preference.
 
-This project is a the basic website of a restaurent.
-The concepts of HTML, CSS, Bootstrap4, Sass and less are used in this project.
-
+Technologies used: HTML, CSS, JS, Bootstrap4, & some concepts of Scss and Less.
